@@ -47,4 +47,4 @@ A Vite também é altamente extensível através da sua API de Extensão e API d
 
 A SWC é agora uma substituição madura para a Babel, especialmente no contexto dos projetos de React. A implementação da Atualização Rápida de React da SWC é muito mais rápida do que a de Babel, e para alguns projetos, é agora uma alternativa melhor. A partir da Vite 4, duas extensões estão disponíveis para os projetos de React com diferentes compromissos. Nós acreditamos que ambas abordagens são dignas de serem suportadas, e continuaremos a explorar melhorias para ambas as extensões no futuro.
 
-# Você pode ler mais em  https://pt.vitejs.dev/
+### Você pode ler mais em  https://pt.vitejs.dev/
